@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+#### Contents of firebase-1.js have been removed due to security reason
+site is hosted on https://learning-fb-todo-app.web.app/
+
+Data submited is directly stored onto the fiblebase database 
+it can be deleted using the delete button
+
+# Getting Started with Naaste Duniya
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
